@@ -61,6 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Zen palette
+				zen: {
+					blue: '#86A7D6',
+					indigo: '#7E69AB',
+					purple: '#9b87f5',
+					lavender: '#E5DEFF',
+					mint: '#F2FCE2',
+					peach: '#FDE1D3',
+					sunset: '#FEC6A1',
+					charcoal: '#403E43',
 				}
 			},
 			borderRadius: {
